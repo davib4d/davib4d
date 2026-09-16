@@ -27,7 +27,7 @@ Atuo na **Coordenadoria de Sistemas de Informação da SEPLAD** (Secretaria de E
 - Migração e publicação de relatórios **Crystal Reports** para o JasperReports
 - Manutenção e suporte a relatórios em **Crystal Reports**
 - Desenvolvimento de APIs internas em **Laravel/PHP**, documentadas com **Swagger/OpenAPI**
-- 2º lugar na estadual **Maratona SBC de Programação 2025**
+- 2º lugar na regional da **Maratona SBC de Programação 2025**
 
 <br>
 
@@ -49,8 +49,8 @@ Atuo na **Coordenadoria de Sistemas de Informação da SEPLAD** (Secretaria de E
 ### Estatísticas
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=davib4d&show_icons=true&theme=default&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=333333" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davib4d&layout=compact&theme=default&hide_border=true&title_color=2E8B57&text_color=333333" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=davib4d&show_icons=true&theme=default&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=333333" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=davib4d&layout=compact&theme=default&hide_border=true&title_color=2E8B57&text_color=333333" />
 </p>
 
 <br>
